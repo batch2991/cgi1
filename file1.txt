@@ -2,3 +2,4 @@ This is 1st line
 and it is a sample file
 this is new updated content in file1 bydiff dev
 sdkfjdslkfjlsdkfjsd
+the file1 new line i have added
